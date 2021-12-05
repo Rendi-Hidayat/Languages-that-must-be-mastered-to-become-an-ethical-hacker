@@ -12,6 +12,12 @@ Tujuan: Peretasan Web
 
 Disini anda bisa mendapatkan Cookie dan dapat dieksekusi dari browser client
 
+3. PHP
+
+Tujuan: melakukan Remote pada server
+
+biasanya disini dipakai saat post exploitation, atau mempertahankan akses dengan backdoor, ataupun lainnya
+
 3. SQL
 
 Tujuan: Peretasan Web
