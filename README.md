@@ -17,13 +17,13 @@ Disini anda bisa mendapatkan Cookie dan dapat dieksekusi dari browser client
 
 Tujuan: Peretasan Web
 
-Disini anda bisa Inject untuk Bypass Web Application, Login Form, dan database
+Disini anda bisa Inject untuk Bypass Web Application, Login Form, dan database, dan lainnya
 
 **4. Python, Ruby, Bash, Perl**
 
 Tujuan: Membuat Tools, Scripts
 
-Disini banyak sekali kegunaannya, anda bisa membuat Tool untuk exploitasi sistem
+Disini banyak sekali kegunaannya, anda bisa membuat Tool untuk exploitasi sebuah sistem
 
 **5. C, C++**
 
