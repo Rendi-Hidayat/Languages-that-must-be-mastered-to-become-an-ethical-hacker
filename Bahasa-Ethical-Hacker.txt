@@ -14,7 +14,7 @@ Disini anda bisa mendapatkan Cookie dan dapat dieksekusi dari browser client
 
 3. PHP
 
-Tujuan: melakukan Remote pada server
+Tujuan: Peretasan Web
 
 biasanya disini dipakai saat post exploitation, atau mempertahankan akses dengan backdoor, ataupun lainnya
 
