@@ -23,7 +23,7 @@ biasanya disini dipakai saat post exploitation, atau mempertahankan akses dengan
 
 Tujuan: Peretasan Web
 
-Disini anda bisa Inject untuk Bypass Web Application, Login Form, dan database, dan lainnya
+Disini anda bisa melakukan inject untuk Bypass Web Application, Login Form, dan database, dan lainnya
 
 **4. Python, Ruby, Bash, Perl**
 
