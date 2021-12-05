@@ -5,7 +5,7 @@ berikut beberapa bahasa yang harus dikuasai untuk menjadi Ethical Hacker:
 
 Tujuan: Peretasan web
 
-Biasa digunakan ketika melakukan serangan CSRF, ataupun lainnya yang berhubungan dengan Form
+Misalnya ketika melakukan serangan CSRF, ataupun lainnya yang berhubungan dengan Form
 
 **2. Javascript**
 
