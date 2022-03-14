@@ -1,38 +1,38 @@
 # Bahasa yang harus dikuasai untuk menjadi Ethical Hacker
-berikut beberapa bahasa yang harus dikuasai untuk menjadi Ethical Hacker:
+Here are some languages ​​that must be mastered to become an Ethical Hacker:
 
-**1. HTML**
+ **1.  HTML**
 
-Tujuan: Peretasan web
+ Purpose: Web hacking
 
-Disini anda bisa memahami tindakan website, respons, dan lain sebagainya, Misalnya ketika melakukan serangan CSRF, ataupun lainnya yang berhubungan dengan Form
+ Here you can understand the website's actions, responses, and so on, for example when carrying out CSRF attacks, or others related to Forms
 
-**2. Javascript**
+ **2.  Javascript**
 
-Tujuan: Peretasan Web
+ Purpose: Web Hacking
 
-Disini anda bisa mendapatkan Cookie dan dapat dieksekusi dari browser client
+ Here you can get Cookies and can be executed from the client browser
 
-**3. PHP**
+ **3.  PHP**
 
-Tujuan: Peretasan Web
+ Purpose: Web Hacking
 
-biasanya disini dipakai saat post exploitation, atau mempertahankan akses dengan backdoor, ataupun lainnya
+ usually used here when post exploitation, or maintaining access with a backdoor, or something else
 
-**3. SQL**
+ **3.  SQL**
 
-Tujuan: Peretasan Web
+ Purpose: Web Hacking
 
-Disini anda bisa melakukan inject untuk Bypass Web Application, Login Form, dan database, dan lainnya
+ Here you can inject to Bypass Web Applications, Login Forms, and databases, and others
 
-**4. Python, Ruby, Bash, Perl**
+ **4.  Python, Ruby, Bash, Perl**
 
-Tujuan: Membuat Tools, Scripts
+ Purpose: Creating Tools, Scripts
 
-Disini banyak sekali kegunaannya, anda bisa membuat Tool untuk exploitasi sebuah sistem
+ There are lots of uses here, you can make tools for exploiting a system
 
-**5. C, C++**
+ **5.  C, C++**
 
-Tujuan: Membuat Malware, Shell Codes, Exploits
+ Purpose: Creating Malware, Shell Codes, Exploits
 
-Disini anda bisa membuat malware Seperti Rootkits dan lainnya
+ Here you can create malware such as Rootkits and others
