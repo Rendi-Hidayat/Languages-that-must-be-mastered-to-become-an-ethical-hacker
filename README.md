@@ -1,4 +1,4 @@
-# Bahasa yang harus dikuasai untuk menjadi Ethical Hacker
+# Languages ​​that must be mastered to become an Ethical Hacker
 Here are some languages ​​that must be mastered to become an Ethical Hacker:
 
  **1.  HTML**
